@@ -14,10 +14,10 @@ Run:
 python port_scanner.py
 
 
-#Contributing:
+##Contributing:
 
 Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
 
-#License
+##License
 
 You can save this content in a file named `README.md` in the root directory of your GitHub repository. This single file contains all the information about your project, including usage instructions, contribution guidelines, and licensing information.
