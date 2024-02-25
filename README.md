@@ -14,7 +14,8 @@ Run:
 python port_scanner.py
 
 
-#Contributing
+#Contributing:
+
 Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
 
 #License
